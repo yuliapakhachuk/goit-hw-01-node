@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "commander": "^10.0.0",
+    "nanoid": "^4.0.0",
+    "nodemon": "^2.0.20",
+    "uuid": "^9.0.0",
+    "yargs": "^17.6.2"
+  },
+  "name": "goit-hw-01-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuliapakhachuk/goit-hw-01-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuliapakhachuk/goit-hw-01-node/issues"
+  },
+  "homepage": "https://github.com/yuliapakhachuk/goit-hw-01-node#readme",
+  "description": ""
+}
